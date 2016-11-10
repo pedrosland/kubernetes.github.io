@@ -422,7 +422,7 @@ basis. The [Secrets](/docs/user-guide/secrets/) user guide explains the syntax.
 ## Real World Example: Configuring Redis
 
 Let's take a look at a real-world example: configuring redis using ConfigMap.  Say we want to inject
-redis with the recommendation configuration for using redis as a cache.  The redis config file
+redis with the recommended configuration for using redis as a cache.  The redis config file
 should contain:
 
 ```conf
